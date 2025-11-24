@@ -36,7 +36,8 @@ The dataset originates from the U.S. Centers for Disease Control and Preventionâ
 * Other Tools: Microsoft Excel 
 
 ### Future Improvements
-1. Doing a State Level Analysis instead of a Regional Level Analysis to get deeper insights into the risk of Alzheimer's Disease on different US states.
-2. Looking into the risk of different indicators based on Age Group, Gender, and Race/Ethnicity.
+1. To do a State Level Analysis instead of a Regional Level Analysis to get deeper insights into the risk of Alzheimer's Disease on different US states.
+2. To look into the risk of different indicators based on Age Group, Gender, and Race/Ethnicity.
+3. To use Machine Learning to interpolate missing data values aiming for a more accurate interpolation. 
     
 ### Acknowledgements
