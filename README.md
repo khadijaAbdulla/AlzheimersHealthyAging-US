@@ -1,5 +1,5 @@
 # Alzheimers Disease & Healthy Aging Analysis, (US, 2015-2022)
-A regional analysis about Alzheimer's Disease and Healthy Aging of Older Adults in the United States.
+A national & regional analysis about Alzheimer's Disease and Healthy Aging of Older Adults in the United States.
 
 ### Overview
 An analysis on **Alzheimer's** Disease and Healthy Aging of **Older Adults** (50+ years Old) in the **United States**, for the period of **2015-2022**. The analysis focuses on identifying the **demographics** and the **US region** with the  **highest risk** of having more Alzheimer's patients in the future. Also, highlighting some of the the **Alzheimer's indicators** in that specific region.
