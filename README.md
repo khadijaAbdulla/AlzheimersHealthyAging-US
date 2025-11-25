@@ -2,7 +2,7 @@
 A regional analysis about Alzheimer's Disease and Healthy Aging of Older Adults in the United States.
 
 ### Overview
-An analysis on **Alzheimer's** Disease and Healthy Aging of **Older Adults** (50+ years Old) in the **United States**, for the period of **2015-2022**. The analysis focuses on comparing the **highest risk region** and highligting some of the the **Alzheimer's indicators** in that specific region.
+An analysis on **Alzheimer's** Disease and Healthy Aging of **Older Adults** (50+ years Old) in the **United States**, for the period of **2015-2022**. The analysis focuses on identifying the **demographics** and the **US region** with the  **highest risk** of having more Alzheimer's patients in the future. Also, highlighting some of the the **Alzheimer's indicators** in that specific region.
 
 #### Introduction
 Alzheimer’s Disease (AD) is a progressive neurological disorder that is the most common cause of Dementia. The cognitive decline in Alzheimer’s Dementia results from damage to the nerves, and its progression leads to a gradual decline in the quality of life of its patients; as it affects functions such as Memory, Comprehension, Language, Attention, Reasoning, and Judgment. Although it is incurable, early detection and treatment could manage its symptoms, which delays its progression. 
