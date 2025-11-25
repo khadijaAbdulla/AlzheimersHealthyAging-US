@@ -11,33 +11,39 @@ Alzheimer’s Disease (AD) is a progressive neurological disorder that is the mo
 Between **2015** and **2022**, the number of Alzheimer’s patients in the **United States** have been increasing and reached around **6.07M Patients**. Other than aging, multiple factors could contribute to this increase; such as **Mental Health**, **Cognitive Decline**, Obesity, etc. This has resulted in a growing **shortage of care workers**, and incurring **high economic costs**.
 
 ### Dataset Information
-Rows: 284K,  Columns: 31
-Source: Kaggle [https://www.kaggle.com/datasets/daniilkrasnoproshin/alzheimers-disease-and-healthy-aging-data](url)
-Original Source: BRFSS, CDC [https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/about_data](url)
+Rows: 284K,  Columns: 31<br />
+Source: Kaggle [https://www.kaggle.com/datasets/daniilkrasnoproshin/alzheimers-disease-and-healthy-aging-data](url)<br />
+Original Source: BRFSS, CDC [https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv/about_data](url)<br />
 
-The dataset originates from the U.S. Centers for Disease Control and Prevention’s (CDC) BRFSS system, which stands for the Behavioral Risk Factor Surveillance System. The purpose of the data is to explore the Alzheimer’s Disease and Healthy Aging Data to gain access to state and national level data on a number of indicators regarding health and well-being for older U.S. adults. Furthermore, the data covers the United States, specifically the 50 US States, Washington D.C. (a.k.a District of Columbia), and 3 US Territories.
+The dataset originates from the U.S. Centers for Disease Control and Prevention’s (CDC) BRFSS system, which stands for the Behavioral Risk Factor Surveillance System. The purpose of the data is to explore the Alzheimer’s Disease and Healthy Aging Data to gain access to state and national level data on a number of indicators regarding health and well-being for older U.S. adults. Furthermore, the data covers the **United States, specifically the 50 US States, Washington D.C. (a.k.a District of Columbia), and 3 US Territories**. However, regional data does not include the **3 US Territories** (Guam, Puerto Rico, and Virgin Islands).
 
-### Analysis
-
-### Key Findings
-1. Steady **decrease** in the overall Health of older adults in the US.
-2. The **South** Region has the **highest** Alzheimer's risk.
-3. In the South, **65+ year olds**, **Females**, and **Native Americans/Alaskans** are more likely to develop Alzheimer's.
-4. In the South, in 2022, **48%** of Older adults have reported having **Sbjective Cognitive Decline**.
-5. In the South, by 2022, **12.3%** of Older adults have been experiencing **Frequent Mental Distress**.
+### Analysis & Key Findings
+1. An **increased risk** of having more Alzheimer's Patients due to a **steady decrease** in the **overall Health** of older adults in the US.
+2. Across the **United States** and the **South** region, **65+ year olds**, **Females**, and **Native Americans/Alaskans, Black(Non-Hispanic) & Hispanic** people are **more likely** to develop Alzheimer's.
+3. The **South** Region has the **highest Alzheimer's risk**, compared to the other regions.
+4. Between 2015 and 2022, **more older adults** in the **South Region** are reporting and experiencing **Subjective Cognitive Decline**, **increasing** their likelihood of developing the disease.
+5. A general **decline** in the **Mental Wellbeing** of Citizens of the **South** Region as people are experiencing more **frequent stress**, with some even having a **Lifetime Diagnosis of Depression**. 
+6. **Obesity** poses a high risk in terms of Nutrition in the **South** region as **36.9%** of older adults are considered obese by 2022.
 
 ### Recommendations
+United States to:
+1. Encourage routine screening for cognitive & physical health.
+2. Provide incentives & training to increase the number of qualified Alzheimer’s specialists
+
+South Region to:
+1. Utilize telehealth to reach rural and underserved communities.
+2. Create Alzheimer’s-friendly communities with accessible transportation and structured living arrangements.
+3. Improve Access to Healthy Foods & Facilitate walking groups, running clubs
 
 ### Tools & Libraries
 * Programming language: Python
 * Library: Pandas
 * Environment: Jupyter Notebook
 * Visualization Tool: Power BI
-* Other Tools: Microsoft Excel 
+* Other Tools: Microsoft Excel, GitHub, Git Bash 
 
 ### Future Improvements
-1. To do a State Level Analysis instead of a Regional Level Analysis to get deeper insights into the risk of Alzheimer's Disease on different US states.
-2. To look into the risk of different indicators based on Age Group, Gender, and Race/Ethnicity.
-3. To use Machine Learning to interpolate missing data values aiming for a more accurate interpolation. 
+1. To use Machine Learning to interpolate missing data values aiming for a more accurate interpolation. 
+2. To do a State Level Analysis instead of a Regional Level Analysis to get deeper insights into the risk of Alzheimer's Disease in different US states.
+3. To look into the risk of indicators on different Age Groups, Genders, and Races/Ethnicities.
     
-### Acknowledgements
